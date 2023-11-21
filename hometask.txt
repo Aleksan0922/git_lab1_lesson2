@@ -1,1 +1,16 @@
 ничем
+
+
+я не уверен, что сюда нужно писать именно это
+init
+heat added
+boots
+README added
+dots
+fix readme
+Merge remote-tracking 'origin/boots' into boots_buttons
+Merge remote-tracking 'origin/buttons' into boots_buttons
+Merge remote-tracking 'origin/hat'
+Add a commit
+Merge branch 'boots_buttons'
+y
